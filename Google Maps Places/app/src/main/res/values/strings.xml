@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Maps Demo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="selct_filtertype">Select Location</string>
+
+    <string name="cancel">Cancel</string>
+</resources>
